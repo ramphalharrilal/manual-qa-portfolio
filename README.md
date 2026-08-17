@@ -10,6 +10,7 @@ A collection of sample manual software testing artifacts that demonstrate struct
 | [Login and Checkout Test Cases](test-cases/ecommerce-test-cases.md) | Positive, negative, validation, and end-to-end test scenarios |
 | [Sample Bug Report](bug-reports/cart-badge-bug-report.md) | A reproducible defect report with severity, priority, evidence expectations, and business impact |
 | [Regression Checklist](checklists/ecommerce-regression-checklist.md) | A reusable checklist covering authentication, catalog, cart, checkout, usability, and compatibility |
+| [Gherkin Checkout Scenarios](bdd-scenarios/ecommerce-checkout.feature) | Business-readable BDD scenarios covering smoke, validation, boundary, and payment-resilience risks |
 
 ## Skills Demonstrated
 
@@ -19,9 +20,9 @@ A collection of sample manual software testing artifacts that demonstrate struct
 - Severity and priority assessment
 - Reproducible defect documentation
 - Test data and environment awareness
+- BDD scenario design using Gherkin
 - User-focused validation of critical workflows
 
 ## Portfolio Note
 
 These artifacts use a fictional e-commerce application and non-production sample data. They are designed to demonstrate my manual QA process and documentation standards without exposing customer, employer, or production information.
-
